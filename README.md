@@ -12,3 +12,5 @@ RU:
 Запуск от имени администратора в игре с загруженным миром!
 
 Only works on Windows 10 & 11
+
+Before use, it is recommended to download and install the latest libraries visual c++
