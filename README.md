@@ -13,4 +13,5 @@ RU:
 
 Only works on Windows 10 & 11
 
-Before use, it is recommended to download and install the latest libraries visual c++
+![demonstration](https://github.com/2KIRAT3/Tower-of-Fantasy-Helper/Tower-of-Fantasy-Helper/1.jpg)
+![demonstration-video](https://youtu.be/Uhk4cRhhDeA)
