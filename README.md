@@ -13,5 +13,5 @@ RU:
 
 Only works on Windows 10 & 11
 
-![demonstration](https://github.com/2KIRAT3/Tower-of-Fantasy-Helper/Tower-of-Fantasy-Helper/1.jpg)
-![demonstration-video](https://youtu.be/Uhk4cRhhDeA)
+![demonstration](https://github.com/2KIRAT3/Tower-of-Fantasy-Helper/blob/master/Tower-of-Fantasy-Helper/Screenshots/1.jpg)
+[![demonstration-video](https://github.com/2KIRAT3/Tower-of-Fantasy-Helper/blob/master/Tower-of-Fantasy-Helper/Screenshots/2.png)](https://www.youtube.com/watch?v=Uhk4cRhhDeA)
