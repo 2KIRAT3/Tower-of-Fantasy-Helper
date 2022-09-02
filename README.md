@@ -11,6 +11,9 @@ RU:
 Как использовать:
 Запуск от имени администратора в игре с загруженным миром!
 
+How to use:
+Run as an administrator in a game with a loaded world!
+
 Only works on Windows 10 & 11
 
 ![demonstration](https://github.com/2KIRAT3/Tower-of-Fantasy-Helper/blob/master/Tower-of-Fantasy-Helper/Screenshots/1.jpg)
